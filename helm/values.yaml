@@ -9,4 +9,4 @@ outOfDateVersionImage:
 
 outOfDateDigestImage:
     repository: bitnami/mongodb
-    tag: 4.4.4@sha256:8655f8d4fbcdd2e5ecbfd4e8dfe2e6a60eb1ad943fadff1abe7eea9fa09d6ab6
+    tag: 4.4.4@sha256:15115f39d7d77db295693407eeafe59f23874e8175d53bb3223c9ea3c158dc7a
